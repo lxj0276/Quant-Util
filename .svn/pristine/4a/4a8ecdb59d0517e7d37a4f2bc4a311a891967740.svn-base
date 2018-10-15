@@ -1,0 +1,37 @@
+0000000000000000000000000000000000000000 11950200306b798c243ebfbea72c536dfe78ac9b evanzd <dongzhou@pku.edu.cn> 1504433804 +0800	pull: storing head
+11950200306b798c243ebfbea72c536dfe78ac9b 4ec29bd8dcfe007b2d4427c28d805d3057155aef evanzd <dongzhou@pku.edu.cn> 1504435651 +0800	update by push
+4ec29bd8dcfe007b2d4427c28d805d3057155aef 151fbee3c8d5313dac454bdae2cbd96ac702ea82 evanzd <dongzhou@pku.edu.cn> 1505027974 +0800	pull: fast-forward
+151fbee3c8d5313dac454bdae2cbd96ac702ea82 3010545b15103a65d5991a8441e855f488c6e339 evanzd <dongzhou@pku.edu.cn> 1505194483 +0800	pull: fast-forward
+3010545b15103a65d5991a8441e855f488c6e339 cd551ef0c10d7e429859b98a79f27eb5e7976e51 evanzd <dongzhou@pku.edu.cn> 1505213631 +0800	update by push
+cd551ef0c10d7e429859b98a79f27eb5e7976e51 b3ab8e59789d7e4db8719d7679389ceb53bc35d7 evanzd <dongzhou@pku.edu.cn> 1505213730 +0800	update by push
+b3ab8e59789d7e4db8719d7679389ceb53bc35d7 a33d7d9ca66105c5a113b0ce2ae4e217f0b2b10a evanzd <dongzhou@pku.edu.cn> 1505260521 +0800	update by push
+a33d7d9ca66105c5a113b0ce2ae4e217f0b2b10a fd42ff348a35a2ca5a7dd00db1b6430ffff26a52 evanzd <dongzhou@pku.edu.cn> 1505265047 +0800	pull origin master: fast-forward
+fd42ff348a35a2ca5a7dd00db1b6430ffff26a52 1ff8f54d65f5f66bd03520023f15be32ea0b83ca evanzd <dongzhou@pku.edu.cn> 1505268455 +0800	update by push
+1ff8f54d65f5f66bd03520023f15be32ea0b83ca eb57e36d627f24a3172a30e727e07d69aeb899dd evanzd <dongzhou@pku.edu.cn> 1505270855 +0800	update by push
+eb57e36d627f24a3172a30e727e07d69aeb899dd 40acaef7bc55534a8166f014b949c716febb3a98 evanzd <dongzhou@pku.edu.cn> 1505443411 +0800	pull: fast-forward
+40acaef7bc55534a8166f014b949c716febb3a98 ac23a331c983a822256167b69573dcc8259e93d8 evanzd <dongzhou@pku.edu.cn> 1506304038 +0800	pull origin master: fast-forward
+ac23a331c983a822256167b69573dcc8259e93d8 70d3540e95999c25a2259c4a512a225dfb15cfcd evanzd <dongzhou@pku.edu.cn> 1506764643 +0800	pull origin master: fast-forward
+70d3540e95999c25a2259c4a512a225dfb15cfcd 6fccb378a6bcd0c7f6c51a16b2bf4e20c59de4be evanzd <dongzhou@pku.edu.cn> 1506788303 +0800	pull origin master: fast-forward
+6fccb378a6bcd0c7f6c51a16b2bf4e20c59de4be ca2c31453263b1dca49e702a0662a6fc61f63393 evanzd <dongzhou@pku.edu.cn> 1506817393 +0800	pull origin master: fast-forward
+ca2c31453263b1dca49e702a0662a6fc61f63393 9ab45eb355755a1db936299aa9f4c5662194a9a6 evanzd <dongzhou@pku.edu.cn> 1506817530 +0800	update by push
+9ab45eb355755a1db936299aa9f4c5662194a9a6 309ef203e63490d905a59bfd42078672331d4994 evanzd <dongzhou@pku.edu.cn> 1506818851 +0800	pull origin master: fast-forward
+309ef203e63490d905a59bfd42078672331d4994 f8474b41806f2adbf2ab695402497bdd0926cb22 evanzd <dongzhou@pku.edu.cn> 1506849400 +0800	pull origin master: fast-forward
+f8474b41806f2adbf2ab695402497bdd0926cb22 b36bbfb6a1004bf0778cb7c9522d70ca62521de2 evanzd <dongzhou@pku.edu.cn> 1506853553 +0800	pull origin master: fast-forward
+b36bbfb6a1004bf0778cb7c9522d70ca62521de2 d5e7b3051b53236ea2aa5151281709352b683780 evanzd <dongzhou@pku.edu.cn> 1506934319 +0800	update by push
+d5e7b3051b53236ea2aa5151281709352b683780 ea97a22afee468cc99451e80384e857a7dea5ad0 evanzd <dongzhou@pku.edu.cn> 1507598715 +0800	pull origin master: fast-forward
+ea97a22afee468cc99451e80384e857a7dea5ad0 c23ef40c4ce7b69e9eed1f3c01c67ef420a08e20 evanzd <dongzhou@pku.edu.cn> 1507629310 +0800	pull origin master: fast-forward
+c23ef40c4ce7b69e9eed1f3c01c67ef420a08e20 841e74e965162e36032fa6c70a4dce12cfd09628 evanzd <dongzhou@pku.edu.cn> 1508978134 +0800	fetch: fast-forward
+841e74e965162e36032fa6c70a4dce12cfd09628 3bfb56683cfb91500a884477ff53a5067145e6d0 evanzd <dongzhou@pku.edu.cn> 1508978425 +0800	update by push
+3bfb56683cfb91500a884477ff53a5067145e6d0 c693b2a6995feaae1c5bf96784e4ecbc882135ef evanzd <dongzhou@pku.edu.cn> 1508979768 +0800	update by push
+c693b2a6995feaae1c5bf96784e4ecbc882135ef 9deb7c1d93cc99db5e1593293b4308ca99661252 evanzd <dongzhou@pku.edu.cn> 1509087247 +0800	update by push
+9deb7c1d93cc99db5e1593293b4308ca99661252 99cb4554dc801165d4f00f93f711e57ac3695801 evanzd <dongzhou@pku.edu.cn> 1509089588 +0800	update by push
+99cb4554dc801165d4f00f93f711e57ac3695801 ecb45ea1f4dde196d9618f52eb26cc8c9ec713c2 evanzd <dongzhou@pku.edu.cn> 1509090229 +0800	update by push
+ecb45ea1f4dde196d9618f52eb26cc8c9ec713c2 15c9e580f0a85f3949f2a2599bf64c2e9d147db0 evanzd <dongzhou@pku.edu.cn> 1509269673 +0800	update by push
+15c9e580f0a85f3949f2a2599bf64c2e9d147db0 39d6de814c29b67d5b7e43394278dacd307dee55 evanzd <dongzhou@pku.edu.cn> 1509340856 +0800	update by push
+39d6de814c29b67d5b7e43394278dacd307dee55 255c998b8cceab73a4445e1e060728431942f33f evanzd <dongzhou@pku.edu.cn> 1509350564 +0800	update by push
+255c998b8cceab73a4445e1e060728431942f33f 7886393c96a3ce31f6babde76d2d7ac7803481ea evanzd <dongzhou@pku.edu.cn> 1509853709 +0800	pull: fast-forward
+7886393c96a3ce31f6babde76d2d7ac7803481ea 8c369b2515af3855592e5c3a8da556b0e7ca3e7b evanzd <dongzhou@pku.edu.cn> 1509854290 +0800	pull origin master: fast-forward
+8c369b2515af3855592e5c3a8da556b0e7ca3e7b dbef597915e1f896339433be979d6973d7746a27 evanzd <dongzhou@pku.edu.cn> 1510193067 +0800	pull: fast-forward
+dbef597915e1f896339433be979d6973d7746a27 4ebb11edaf25fce550c4ce3bcc65073fc96fde20 evanzd <dongzhou@pku.edu.cn> 1510193115 +0800	update by push
+4ebb11edaf25fce550c4ce3bcc65073fc96fde20 c5474ea081020030fac2f76c90c32ecd0134fd81 evanzd <dongzhou@pku.edu.cn> 1510197263 +0800	update by push
+c5474ea081020030fac2f76c90c32ecd0134fd81 23794d3dfe94cbd26215e693d5cf33d132952dd0 evanzd <dongzhou@pku.edu.cn> 1510207171 +0800	update by push

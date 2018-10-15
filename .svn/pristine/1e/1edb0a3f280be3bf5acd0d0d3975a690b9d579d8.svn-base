@@ -1,0 +1,54 @@
+0000000000000000000000000000000000000000 031d29a274e7640b716c5cc35cb470365a6c8a16 evanzd <dongzhou@pku.edu.cn> 1502698564 +0800	clone: from git@10.18.103.11:ai-s-shixiaohan/quant-lab.git
+031d29a274e7640b716c5cc35cb470365a6c8a16 6752aa3a27d4f66258c8eb939a00dc07b2a36a1d evanzd <dongzhou@pku.edu.cn> 1502698687 +0800	commit: clean up
+6752aa3a27d4f66258c8eb939a00dc07b2a36a1d d4e77032759771e6719e75fbb034e5ccd65f0571 evanzd <dongzhou@pku.edu.cn> 1503126515 +0800	pull: Fast-forward
+d4e77032759771e6719e75fbb034e5ccd65f0571 4213ea37b238b711fb2a1cd4872513c147fac355 evanzd <dongzhou@pku.edu.cn> 1503653468 +0800	pull: Fast-forward
+4213ea37b238b711fb2a1cd4872513c147fac355 9ee8da0ce6d5646966632ee21a4ad54d2d6ac308 evanzd <dongzhou@pku.edu.cn> 1503653611 +0800	commit: add trend_sense scripts
+9ee8da0ce6d5646966632ee21a4ad54d2d6ac308 13c3af851cbfff3e6dc317a16fc323614032516f evanzd <dongzhou@pku.edu.cn> 1503981061 +0800	commit: update
+13c3af851cbfff3e6dc317a16fc323614032516f 8cf303de1629cfae6692c8c781c82f7347e20f62 evanzd <dongzhou@pku.edu.cn> 1504061705 +0800	pull: Fast-forward
+8cf303de1629cfae6692c8c781c82f7347e20f62 e56862cee1535c300256a5229e084087f5953771 evanzd <dongzhou@pku.edu.cn> 1504073483 +0800	commit: add upload_data
+e56862cee1535c300256a5229e084087f5953771 9dae3b55ffe33b4afffc637f6cbe0bafc65c11bc evanzd <dongzhou@pku.edu.cn> 1504073623 +0800	commit (amend): rename new prepare_data script to dev for future use, add upload_data
+9dae3b55ffe33b4afffc637f6cbe0bafc65c11bc 9931d58063892603ae87d9e44e37986ded6bc239 evanzd <dongzhou@pku.edu.cn> 1504075839 +0800	commit: fix feature test;
+9931d58063892603ae87d9e44e37986ded6bc239 11950200306b798c243ebfbea72c536dfe78ac9b evanzd <dongzhou@pku.edu.cn> 1504433815 +0800	pull origin master: Fast-forward
+11950200306b798c243ebfbea72c536dfe78ac9b 4ec29bd8dcfe007b2d4427c28d805d3057155aef evanzd <dongzhou@pku.edu.cn> 1504435646 +0800	commit: update
+4ec29bd8dcfe007b2d4427c28d805d3057155aef 3010545b15103a65d5991a8441e855f488c6e339 evanzd <dongzhou@pku.edu.cn> 1505194547 +0800	pull origin master: Fast-forward
+3010545b15103a65d5991a8441e855f488c6e339 9addbbcdbe490c62391aa19c2bf19d44bcb1bf5a evanzd <dongzhou@pku.edu.cn> 1505194555 +0800	pull origin feature.v2: Merge made by the 'recursive' strategy.
+9addbbcdbe490c62391aa19c2bf19d44bcb1bf5a 77adf756fa8cf4e2485c0355f1647c3b6aee7e70 evanzd <dongzhou@pku.edu.cn> 1505194572 +0800	checkout: moving from master to feature.v2
+77adf756fa8cf4e2485c0355f1647c3b6aee7e70 9addbbcdbe490c62391aa19c2bf19d44bcb1bf5a evanzd <dongzhou@pku.edu.cn> 1505194579 +0800	checkout: moving from feature.v2 to master
+9addbbcdbe490c62391aa19c2bf19d44bcb1bf5a cd551ef0c10d7e429859b98a79f27eb5e7976e51 evanzd <dongzhou@pku.edu.cn> 1505213626 +0800	commit: add stock_service
+cd551ef0c10d7e429859b98a79f27eb5e7976e51 b3ab8e59789d7e4db8719d7679389ceb53bc35d7 evanzd <dongzhou@pku.edu.cn> 1505213725 +0800	commit: rm print
+b3ab8e59789d7e4db8719d7679389ceb53bc35d7 c6f7d7a55c78d59a5d542c3b7a08c2a7e56bf48a evanzd <dongzhou@pku.edu.cn> 1505227998 +0800	commit: feature v2 update
+c6f7d7a55c78d59a5d542c3b7a08c2a7e56bf48a a33d7d9ca66105c5a113b0ce2ae4e217f0b2b10a evanzd <dongzhou@pku.edu.cn> 1505260512 +0800	commit: adapt to new api
+a33d7d9ca66105c5a113b0ce2ae4e217f0b2b10a fd42ff348a35a2ca5a7dd00db1b6430ffff26a52 evanzd <dongzhou@pku.edu.cn> 1505265047 +0800	pull origin master: Fast-forward
+fd42ff348a35a2ca5a7dd00db1b6430ffff26a52 ba29c9dfc563aa161df87f40948d43bacb8eb029 evanzd <dongzhou@pku.edu.cn> 1505265735 +0800	commit: update list_instrument_ids
+ba29c9dfc563aa161df87f40948d43bacb8eb029 1ff8f54d65f5f66bd03520023f15be32ea0b83ca evanzd <dongzhou@pku.edu.cn> 1505268450 +0800	commit: update feature api: force update for latest data
+1ff8f54d65f5f66bd03520023f15be32ea0b83ca eb57e36d627f24a3172a30e727e07d69aeb899dd evanzd <dongzhou@pku.edu.cn> 1505270850 +0800	commit: seperate skip_na and skip_suspend
+eb57e36d627f24a3172a30e727e07d69aeb899dd 40acaef7bc55534a8166f014b949c716febb3a98 evanzd <dongzhou@pku.edu.cn> 1505443415 +0800	pull origin master: Fast-forward
+40acaef7bc55534a8166f014b949c716febb3a98 ac23a331c983a822256167b69573dcc8259e93d8 evanzd <dongzhou@pku.edu.cn> 1506304038 +0800	pull origin master: Fast-forward
+ac23a331c983a822256167b69573dcc8259e93d8 70d3540e95999c25a2259c4a512a225dfb15cfcd evanzd <dongzhou@pku.edu.cn> 1506764643 +0800	pull origin master: Fast-forward
+70d3540e95999c25a2259c4a512a225dfb15cfcd 6fccb378a6bcd0c7f6c51a16b2bf4e20c59de4be evanzd <dongzhou@pku.edu.cn> 1506788303 +0800	pull origin master: Fast-forward
+6fccb378a6bcd0c7f6c51a16b2bf4e20c59de4be ca2c31453263b1dca49e702a0662a6fc61f63393 evanzd <dongzhou@pku.edu.cn> 1506817393 +0800	pull origin master: Fast-forward
+ca2c31453263b1dca49e702a0662a6fc61f63393 9ab45eb355755a1db936299aa9f4c5662194a9a6 evanzd <dongzhou@pku.edu.cn> 1506817524 +0800	commit: update data sync
+9ab45eb355755a1db936299aa9f4c5662194a9a6 309ef203e63490d905a59bfd42078672331d4994 evanzd <dongzhou@pku.edu.cn> 1506818851 +0800	pull origin master: Fast-forward
+309ef203e63490d905a59bfd42078672331d4994 f8474b41806f2adbf2ab695402497bdd0926cb22 evanzd <dongzhou@pku.edu.cn> 1506849400 +0800	pull origin master: Fast-forward
+f8474b41806f2adbf2ab695402497bdd0926cb22 b36bbfb6a1004bf0778cb7c9522d70ca62521de2 evanzd <dongzhou@pku.edu.cn> 1506853553 +0800	pull origin master: Fast-forward
+b36bbfb6a1004bf0778cb7c9522d70ca62521de2 d5e7b3051b53236ea2aa5151281709352b683780 evanzd <dongzhou@pku.edu.cn> 1506934311 +0800	commit: update data sync
+d5e7b3051b53236ea2aa5151281709352b683780 ea97a22afee468cc99451e80384e857a7dea5ad0 evanzd <dongzhou@pku.edu.cn> 1507598715 +0800	pull origin master: Fast-forward
+ea97a22afee468cc99451e80384e857a7dea5ad0 c23ef40c4ce7b69e9eed1f3c01c67ef420a08e20 evanzd <dongzhou@pku.edu.cn> 1507629310 +0800	pull origin master: Fast-forward
+c23ef40c4ce7b69e9eed1f3c01c67ef420a08e20 841e74e965162e36032fa6c70a4dce12cfd09628 evanzd <dongzhou@pku.edu.cn> 1508978379 +0800	merge origin/master: Fast-forward
+841e74e965162e36032fa6c70a4dce12cfd09628 3bfb56683cfb91500a884477ff53a5067145e6d0 evanzd <dongzhou@pku.edu.cn> 1508978397 +0800	commit: add docker server
+3bfb56683cfb91500a884477ff53a5067145e6d0 e1ff2fbafce9b476695ebf5cb07b7cf2f84eeb2b evanzd <dongzhou@pku.edu.cn> 1508979407 +0800	commit: add ctp service
+e1ff2fbafce9b476695ebf5cb07b7cf2f84eeb2b e6b920cc335eba169fb7354f0335b73fc69da5d4 evanzd <dongzhou@pku.edu.cn> 1508979719 +0800	commit: specify python version
+e6b920cc335eba169fb7354f0335b73fc69da5d4 c693b2a6995feaae1c5bf96784e4ecbc882135ef evanzd <dongzhou@pku.edu.cn> 1508979738 +0800	commit: fix calendar update
+c693b2a6995feaae1c5bf96784e4ecbc882135ef 9deb7c1d93cc99db5e1593293b4308ca99661252 evanzd <dongzhou@pku.edu.cn> 1509087174 +0800	commit: fix service night
+9deb7c1d93cc99db5e1593293b4308ca99661252 99cb4554dc801165d4f00f93f711e57ac3695801 evanzd <dongzhou@pku.edu.cn> 1509089580 +0800	commit: add spiders
+99cb4554dc801165d4f00f93f711e57ac3695801 ecb45ea1f4dde196d9618f52eb26cc8c9ec713c2 evanzd <dongzhou@pku.edu.cn> 1509090224 +0800	commit: add scripts
+ecb45ea1f4dde196d9618f52eb26cc8c9ec713c2 15c9e580f0a85f3949f2a2599bf64c2e9d147db0 evanzd <dongzhou@pku.edu.cn> 1509269665 +0800	commit: fix feature
+15c9e580f0a85f3949f2a2599bf64c2e9d147db0 39d6de814c29b67d5b7e43394278dacd307dee55 evanzd <dongzhou@pku.edu.cn> 1509340851 +0800	commit: fix ctp date
+39d6de814c29b67d5b7e43394278dacd307dee55 255c998b8cceab73a4445e1e060728431942f33f evanzd <dongzhou@pku.edu.cn> 1509350559 +0800	commit: fix ctp archive
+255c998b8cceab73a4445e1e060728431942f33f 7886393c96a3ce31f6babde76d2d7ac7803481ea evanzd <dongzhou@pku.edu.cn> 1509853838 +0800	pull origin master: Fast-forward
+7886393c96a3ce31f6babde76d2d7ac7803481ea 8c369b2515af3855592e5c3a8da556b0e7ca3e7b evanzd <dongzhou@pku.edu.cn> 1509854290 +0800	pull origin master: Fast-forward
+8c369b2515af3855592e5c3a8da556b0e7ca3e7b 441610f9b803a08330b825663a77cf3890d16a59 evanzd <dongzhou@pku.edu.cn> 1510193053 +0800	commit: seperate kubernetes configuration
+441610f9b803a08330b825663a77cf3890d16a59 4ebb11edaf25fce550c4ce3bcc65073fc96fde20 evanzd <dongzhou@pku.edu.cn> 1510193071 +0800	pull origin master: Merge made by the 'recursive' strategy.
+4ebb11edaf25fce550c4ce3bcc65073fc96fde20 c5474ea081020030fac2f76c90c32ecd0134fd81 evanzd <dongzhou@pku.edu.cn> 1510197258 +0800	commit: add kubernetes config file
+c5474ea081020030fac2f76c90c32ecd0134fd81 23794d3dfe94cbd26215e693d5cf33d132952dd0 evanzd <dongzhou@pku.edu.cn> 1510207164 +0800	commit: add persistent volume claim
+23794d3dfe94cbd26215e693d5cf33d132952dd0 a6f629d87e8cf121774b89be06d7b968d272e56c JasonZhang2333 <zhangzc@pku.edu.cn> 1522823423 +0800	commit: initial
