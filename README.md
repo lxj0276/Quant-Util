@@ -1,8 +1,3 @@
-# Purpose
-
-This will be the Git repository for all our quant effort.
-
-
 ## What *should* be checked in
 
 * Shared code
